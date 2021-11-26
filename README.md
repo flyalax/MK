@@ -1,2 +1,2 @@
-# mk
-plc fx3u Mitsubishi 三菱 国产plc
+# MK系列PLC内核固件
+MK系列PLC，是一款全国产化兼容三菱FX3U系列PLC，内核固件代码可跨平台执行。
